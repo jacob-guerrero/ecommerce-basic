@@ -1,76 +1,84 @@
 <br/>
 <p align="center">
-  <h3 align="center">Ecommerce Tailwind</h3>
+  <h3 align="center">Tienda Colombia - Artesanías y Productos Locales</h3>
 
   <p align="center">
-    an ecommerce template using tailwind css v3
+    Plataforma de ecommerce especializada en artesanías y productos colombianos auténticos
     <br/>
+    Construida con Tailwind CSS v3
     <br/>
   </p>
 </p>
 
-
-
-## About The Project
+## Acerca de Tienda Colombia
 
 ![Screen Shot](screenshots/Ecommerce-Tailwind.png)
 
-Ecommerce Tailwind project.
+Tienda Colombia es una plataforma de ecommerce dedicada a promover la venta de artesanías y productos tradicionales colombianos. Apoyamos a artesanos locales y productores de toda Colombia, desde Bogotá hasta Cartagena.
 
 ## Screenshots
+
 <details>
 <summary>Homepage</summary>
 
 ![Homepage](screenshots/Ecommerce-Tailwind.png)
+
 </details>
 
 <details>
 <summary>Account</summary>
 
 ![Account](screenshots/Account-Ecommerce-Tailwind.png)
+
 </details>
 
 <details>
 <summary>Checkout</summary>
 
 ![checkout](screenshots/Checkout-Ecommerce-Tailwind.png)
+
 </details>
 
 <details>
 <summary>Login</summary>
 
 ![Login](screenshots/Login-Ecommerce-Tailwind.png)
+
 </details>
 
 <details>
 <summary>Register</summary>
 
 ![Register](screenshots/Register-Ecommerce-Tailwind.png)
+
 </details>
 
 <details>
 <summary>Shop</summary>
 
 ![Shop](screenshots/Shop-Page-Ecommerce-Tailwind.png)
+
 </details>
 
 <details>
 <summary>Product</summary>
 
 ![product](screenshots/Product-Ecommerce-Tailwind.png)
+
 </details>
 
 <details>
 <summary>Wishlist</summary>
 
 ![wishlist](screenshots/Wishlist-Ecommerce-Tailwind.png)
+
 </details>
 
 ## Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 
-* npm
+- npm
 
 ```sh
 npm install npm@latest -g
@@ -109,10 +117,11 @@ See the [open issues](https://github.com/fajar7xx/ ecommerce-template-tailwind-1
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/fajar7xx/ ecommerce-template-tailwind-1/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
-* Please make sure you check your spelling and grammar.
-* Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/fajar7xx/ ecommerce-template-tailwind-1/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+
+- If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/fajar7xx/ ecommerce-template-tailwind-1/issues/new) to discuss it, or directly create a pull request after you edit the _README.md_ file with necessary changes.
+- Please make sure you check your spelling and grammar.
+- Create individual PR for each suggestion.
+- Please also read through the [Code Of Conduct](https://github.com/fajar7xx/ ecommerce-template-tailwind-1/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -124,5 +133,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **Fajar Siagian** - *Fullstack Developer* - [Fajar Siagian](https://github.com/fajar7xx/) - *author*
-
+- **Fajar Siagian** - _Fullstack Developer_ - [Fajar Siagian](https://github.com/fajar7xx/) - _author_

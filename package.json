@@ -1,7 +1,7 @@
 {
-  "name": "tw-commerce",
+  "name": "tienda-colombia",
   "version": "1.0.0",
-  "description": "ecommerce base on tailwind css",
+  "description": "Plataforma de ecommerce colombiano para artesanías y productos locales, construida con Tailwind CSS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
